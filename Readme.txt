@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+The dataset contains daily temperature for four major cities in India namely : Kolkata , Mumbai , Chennai , Delhi .
 
-Template Name: FlexStart
-Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+The dataset has been curated from : academic.udayton.edu
+
+We did the Data visualization using Tableau and provided insights. 
+Created Dashboard and Story 
